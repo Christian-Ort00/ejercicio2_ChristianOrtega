@@ -1,0 +1,119 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jun 4, 2025, 3:00:28 PM
+    Author     : Usuario
+*/
+
+
+footer{
+    background-color: black;
+    color: white;
+    height: 80px;
+    text-align: center;
+   
+}
+
+.container-fluid{
+    flex:1;
+}
+
+#back-color{
+    background-color: beige
+}
+
+#box-1-index{
+    background-color: skyblue;
+    border-radius: 30px
+
+}
+#box-2-index{
+    background-color: greenyellow;
+    border-radius: 30px
+}
+
+#box-3-index{
+    background-color: pink;
+    border-radius: 30px
+}
+
+#preview{
+    background-color: red;
+    padding:5px
+}
+.seccion-inicial{
+    background-color: bisque
+}
+
+#seccion-der-bad{
+    background: greenyellow;
+
+}
+#seccion-izq-bad{
+    background: pink
+}
+#titulo-bad{
+    background-color: yellow;
+    margin: 0;
+}
+#titulo-noah{
+    background-color: skyblue;
+    margin:0;
+}
+#seccion-izq-noah{
+    background-color: #E7DDFF;
+}
+#seccion-der-noah{
+    background-color: #94ECAC;
+}
+#titulo-kaleo{
+    background-color: red;
+    margin:0;
+}
+#seccion-izq-kaleo{
+    background-color: #FDF107;
+}
+#seccion-der-kaleo{
+    background-color: #FE6E07;
+}
+#titulo-chris{
+    background-color: red;
+    margin:0;
+}
+#seccion-izq-chris{
+    background-color: #5AE245;
+}
+#seccion-der-chris{
+    background-color: #FCE83A;
+}
+#titulo-carin{
+    background-color: #F5E1A9;
+    margin:0;
+}
+#seccion-izq-carin{
+    background-color: #F36EC6;
+}
+#seccion-der-carin{
+    background-color: #6E8CF3;
+}
+#titulo-eladio{
+    background-color: #71B96B;
+    margin:0;
+}
+#seccion-izq-eladio{
+    background-color: #D89547;
+}
+#seccion-der-eladio{
+    background-color: #B0AFB1;
+}
+
+#background-recomendaciones{
+    background-color: #a3a3df;
+    opacity: 1;
+    background-image: radial-gradient(circle at center center, #9e78bb, #a3a3df), repeating-radial-gradient(circle at center center, #9e78bb, #9e78bb, 24px, transparent 48px, transparent 24px);
+    background-blend-mode: multiply;
+    color: white;
+    
+}
